@@ -7,8 +7,6 @@
 
 ---
 
-## Deskripsi Repository
-
 Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas Siber Asia. Repository ini dibuat untuk menyediakan informasi tentang proses pembelajaran di mata kuliah Data Science dan juga berfungsi sebagai  tugas, latihan, dan praktikum yang diberikan di setiap pertemuan. Tujuan pembelajaran adalah untuk mendapatkan pemahaman tentang proses pengolahan data, mulai dari pengumpulan, pembersihan, analisis, visualisasi, hingga penggunaan pembelajaran mesin untuk menghasilkan data yang bermanfaat. Repository ini mengandung notebook yang mencatat hasil pembelajaran dari Pertemuan 1 hingga Pertemuan 7 dengan menggunakan Python dan berbagai library pendukung Data Science.
 
 ---
