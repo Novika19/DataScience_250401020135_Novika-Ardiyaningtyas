@@ -7,7 +7,7 @@
 
 ---
 
-Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas Siber Asia. Repository ini dibuat untuk menyediakan informasi tentang proses pembelajaran di mata kuliah Data Science dan juga berfungsi sebagai  tugas, latihan, dan praktikum yang diberikan di setiap pertemuan. Tujuan pembelajaran adalah untuk mendapatkan pemahaman tentang proses pengolahan data, mulai dari pengumpulan, pembersihan, analisis, visualisasi, hingga penggunaan pembelajaran mesin untuk menghasilkan data yang bermanfaat. Repository ini mengandung notebook yang mencatat hasil pembelajaran dari Pertemuan 1 hingga Pertemuan 7 dengan menggunakan Python dan berbagai library pendukung Data Science.
+Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas Siber Asia. Repository ini dibuat untuk menyediakan informasi tentang proses pembelajaran di mata kuliah Data Science dan juga berfungsi sebagai  tugas, latihan, dan praktikum yang diberikan di setiap pertemuan. Tujuan pembelajaran adalah untuk mendapatkan pemahaman tentang proses pengolahan data, mulai dari pengumpulan, pembersihan, analisis, visualisasi. Repository ini mengandung notebook yang mencatat hasil pembelajaran dari Pertemuan 1 hingga Pertemuan 7 dengan menggunakan Python dan berbagai library pendukung Data Science.
 
 ---
 
@@ -17,13 +17,12 @@ Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas S
 |-----------|--------|---------------|
 | 1 | Dasar Python dan Pengenalan Data Science | [Pertemuan 1](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan1_Novika_Ardiyaningtyas_250401020135.ipynb) |
 | 2 | Struktur Data Python, NumPy dan Pandas | [Pertemuan 2](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan2_Novika_Ardiyaningtyas_250401020135.ipynb) |
-| 3 | Data Cleaning: Missing Values, Outlier dan Ekstraksi Data | [Pertemuan 3](./Pertemuan3.ipynb) |
-| 4 | Statistika Dasar dan Analisis Data | [Pertemuan 4](./Pertemuan4.ipynb) |
-| 5 | Visualisasi Data | [Pertemuan 5](./Pertemuan5.ipynb) |
-| 6 | Persiapan Data untuk Machine Learning | [Pertemuan 6](./Pertemuan6.ipynb) |
-| 7 | Pengantar Machine Learning: Regresi Linear | [Pertemuan 7](./Pertemuan7.ipynb) |
+| 3 | Data Cleaning: Missing Values, Outlier dan Ekstraksi Data | [Pertemuan 3](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan3_Novika_Ardiyaningtya_250401020135.ipynb) |
+| 4 | Statistika Dasar dan Analisis Data | [Pertemuan 4](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan4_Novika_Ardiyaningtyas_250401020135.ipynb) |
+| 5 | Visualisasi Data | [Pertemuan 5](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan5_Novika_Ardiyaningtyas_250401020135.ipynb) |
+| 6 | Persiapan Data untuk Machine Learning | [Pertemuan 6](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan6_Novika_Ardiyaningtyas_250401020135.ipynb) |
+| 7 | Pengantar Machine Learning: Regresi Linear | [Pertemuan 7](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan7_Novika_Ardiyaningtyas_250401020135.ipynb) |
 
-> Sesuaikan nama file notebook dengan nama file yang digunakan pada repository GitHub.
 
 ---
 
@@ -55,10 +54,4 @@ Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas S
 
 ## Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–7)
 
-Selama tujuh pertemuan, pembelajaran dimulai dengan pengenalan dasar-dasar Python sebagai fondasi utama dalam Data Science. Materi mencakup penggunaan variabel, tipe data, struktur data, perulangan, fungsi, serta konsep dasar pemrograman yang digunakan dalam pengolahan data.
-
-Selanjutnya dipelajari penggunaan NumPy dan Pandas untuk melakukan manipulasi data dan komputasi numerik secara efisien. Setelah itu, pembelajaran berfokus pada proses data cleaning yang meliputi penanganan missing values, outlier, dan ekstraksi data untuk memastikan kualitas data yang digunakan dalam analisis.
-
-Materi statistika dasar memberikan pemahaman mengenai ukuran pemusatan dan penyebaran data, sedangkan visualisasi data membantu menyajikan informasi dalam bentuk grafik yang lebih mudah dipahami. Tahap berikutnya membahas persiapan data untuk Machine Learning melalui proses encoding, scaling, dan pembagian data latih serta data uji.
-
-Pada pertemuan terakhir diperkenalkan konsep dasar Machine Learning, khususnya regresi linear sebagai salah satu metode supervised learning untuk melakukan prediksi berdasarkan pola data. Secara keseluruhan, rangkaian pembelajaran ini memberikan pemahaman dasar mengenai tahapan Data Science mulai dari pengumpulan data, pembersihan data, analisis, visualisasi, hingga penerapan model Machine Learning sederhana.
+Selama tujuh pertemuan, pembelajaran diawali dengan pengenalan dasar Python sebagai fondasi utama dalam Data Science. Materi yang disampaikan meliputi penggunaan variabel, tipe data, struktur data, perulangan, fungsi, serta konsep-konsep pemrograman dasar yang esensial untuk pengolahan data. Selanjutnya,  mempelajari library NumPy dan Pandas untuk melakukan manipulasi data serta komputasi numerik secara lebih efisien. Kemudian, pembelajaran difokuskan pada proses data cleaning, yang mencakup penanganan missing values, outlier, dan ekstraksi data guna menjamin kualitas data yang akan digunakan untuk analisis.Tahap selanjutnya membahas persiapan data untuk Machine Learning, meliputi proses encoding, scaling, serta pembagian data menjadi data latih dan data uji. Pada pertemuan terakhir, diperkenalkan konsep dasar Machine Learning, khususnya regresi linier sebagai salah satu metode supervised learning untuk memprediksi nilai berdasarkan pola yang ada pada data. Secara keseluruhan, paket pembelajaran ini memberikan pemahaman dasar tentang langkah-langkah dalam ilmu data, mulai dari pengumpulan data, pembersihan, analisis, dan visualisasi, hingga penerapan model Machine Learning sederhana.
