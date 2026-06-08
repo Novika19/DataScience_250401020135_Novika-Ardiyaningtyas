@@ -18,7 +18,7 @@ Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas S
 | Pertemuan | Topik | Link Notebook |
 |-----------|--------|---------------|
 | 1 | Dasar Python dan Pengenalan Data Science | [Pertemuan 1](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan1_Novika_Ardiyaningtyas_250401020135.ipynb) |
-| 2 | Struktur Data Python, NumPy dan Pandas | [Pertemuan 2](./Pertemuan2.ipynb) |
+| 2 | Struktur Data Python, NumPy dan Pandas | [Pertemuan 2](https://github.com/Novika19/DataScience_250401020135_Novika-Ardiyaningtyas/blob/main/Pertemuan2_Novika_Ardiyaningtyas_250401020135.ipynb) |
 | 3 | Data Cleaning: Missing Values, Outlier dan Ekstraksi Data | [Pertemuan 3](./Pertemuan3.ipynb) |
 | 4 | Statistika Dasar dan Analisis Data | [Pertemuan 4](./Pertemuan4.ipynb) |
 | 5 | Visualisasi Data | [Pertemuan 5](./Pertemuan5.ipynb) |
