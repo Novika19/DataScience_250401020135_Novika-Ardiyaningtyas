@@ -52,6 +52,6 @@ Saya Novika Ardiyaningtyas, mahasiswa Program Studi Informatika di Universitas S
 
 ---
 
-## Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–7)
+## Kesimpulan  Belajar Data Science (Pertemuan 1–7)
 
 Selama tujuh pertemuan, pembelajaran diawali dengan pengenalan dasar Python sebagai fondasi utama dalam Data Science. Materi yang disampaikan meliputi penggunaan variabel, tipe data, struktur data, perulangan, fungsi, serta konsep-konsep pemrograman dasar yang esensial untuk pengolahan data. Selanjutnya,  mempelajari library NumPy dan Pandas untuk melakukan manipulasi data serta komputasi numerik secara lebih efisien. Kemudian, pembelajaran difokuskan pada proses data cleaning, yang mencakup penanganan missing values, outlier, dan ekstraksi data guna menjamin kualitas data yang akan digunakan untuk analisis.Tahap selanjutnya membahas persiapan data untuk Machine Learning, meliputi proses encoding, scaling, serta pembagian data menjadi data latih dan data uji. Pada pertemuan terakhir, diperkenalkan konsep dasar Machine Learning, khususnya regresi linier sebagai salah satu metode supervised learning untuk memprediksi nilai berdasarkan pola yang ada pada data. Secara keseluruhan, paket pembelajaran ini memberikan pemahaman dasar tentang langkah-langkah dalam ilmu data, mulai dari pengumpulan data, pembersihan, analisis, dan visualisasi, hingga penerapan model Machine Learning sederhana.
